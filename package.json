@@ -1,0 +1,14 @@
+{
+  "name": "wakeupinstance",
+  "version": "1.0.0",
+  "description": "Wakes Up Instance",
+  "main": "WakeUpInstance.js",
+  "scripts": {
+    "test": "node WakeUpInstance.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  }
+}
